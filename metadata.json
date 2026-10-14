@@ -1,0 +1,8 @@
+{
+  "name": "Dani AI",
+  "description": "DANI AI v2.1.0 — Free Forever by Dani. Full Android Voice Assistant Agent with animated voice orb, GF mode, real-time voice synthesis, device actions, and accessibility controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

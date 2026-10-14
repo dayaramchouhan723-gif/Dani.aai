@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dani AI</string>
+    <string name="app_label">Dani AI - Free Forever</string>
+    <string name="accessibility_description">Dani AI Accessibility Service allows voice navigation and device automation.</string>
+</resources>
